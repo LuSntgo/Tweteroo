@@ -12,7 +12,7 @@ app.post("/sign-up", (req, res) => {
   const username = req.body;
 
   login.push(username);
-  res.send("Ok");
+  res.send("Ok!");
 });
 
 app.post("/tweets", (req, res) => {
@@ -23,7 +23,7 @@ app.post("/tweets", (req, res) => {
   };
 
   tweets.push(tweet);
-  res.send("OK");
+  res.send("OK!");
 });
 
 app.get("/tweets", (req, res) => {

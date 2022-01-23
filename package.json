@@ -1,12 +1,24 @@
 {
   "name": "projeto_11_tweteroo",
   "version": "1.0.0",
+  "type": "module",
   "main": "script.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npx nodemon index.js"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuSntgo/Tweteroo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LuSntgo/Tweteroo/issues"
+  },
+  "homepage": "https://github.com/LuSntgo/Tweteroo#readme",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }

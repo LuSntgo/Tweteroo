@@ -33,7 +33,7 @@ A social network that simulates a personal blog, where people post "What's on yo
 
 ## :tada: How to run
 
-### requirements
+### requirements:
 
 Before starting, you'll need to have the following tools installed on your machine:
 
@@ -51,7 +51,7 @@ $ cd tweteroo
 $ npm or yarn install
 
 # to run in dev
-$ npx node src/index.js
+$ node src/index.js
 
 # The server will start on port:5000 - go to <http://localhost:5000>
 ```

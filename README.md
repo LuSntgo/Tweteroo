@@ -56,6 +56,6 @@ $ node src/index.js
 # The server will start on port:5000 - go to <http://localhost:5000>
 ```
 
-## :sparkle: Author
+## :sparkles: Author
 
 [<img align="center" src="https://avatars.githubusercontent.com/lusntgo" width=115><br><sub>Luiza Santiago</sub>](https://github.com/lusntgo)
